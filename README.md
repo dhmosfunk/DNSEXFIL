@@ -1,2 +1,1 @@
-# DNSEXFIL
-Data Exfiltration Commands 
+# DNSEXFIL - Data Exfiltration via DNS
