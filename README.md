@@ -1,4 +1,4 @@
-# DNSEXFIL - Data Exfiltration via DNS
+# DNSEXFIL - OOB Data Exfiltration via DNS
 
 ```bash
 
